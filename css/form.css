@@ -1,0 +1,37 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.required,.lat,.lon{
+color:red;
+
+}
+
+#guess{
+    width: 21%;
+}
+#description{
+    width: 60%;
+}
+#dateObserved{
+    width: 22%;
+}
+#notes{
+    width: 63%;
+}
+
+
+#lat, #lon{
+    width: 23%;
+}
+
+
+#photo-owner, #photo-email{
+    width: 63%
+}
+
+#photo{
+    width: 45%
+}
+#license{
+    width: 67%
+}
